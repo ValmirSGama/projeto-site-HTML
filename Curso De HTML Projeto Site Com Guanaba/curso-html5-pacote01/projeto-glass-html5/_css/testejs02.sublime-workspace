@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"la",
+				"lâmpada_apagada"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/quantosEntre0e10ESomandoImpares.alg",
+			"settings":
+			{
+				"buffer_size": 554,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/conversorDeMoedas.alg",
+			"settings":
+			{
+				"buffer_size": 407,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/contando_1Ate10.alg",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula07/aula-pratica/03-imc.alg",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/dissecandoMatrizes.alg",
+		"/C/Users/valmi/OneDrive/Documentos/soulcode/index.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/_css/testejs02.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/_css/estilo.css",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/index.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/_css/testejs02.sublime-project",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/.DS_Store",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/fale-conosco.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/fotos.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/google-glass.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/multimidia.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/Curso de HTML/curso-html5-pacote01/projeto-glass-html5/specs.html",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Exercícios de terceiros/11equacaoSegundoGrau.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Exercícios de terceiros/calculaPreco12.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Exercícios de terceiros/equacaoSegundoGrau11.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/calculando_Imposto.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/Porcentagem emprestimo.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula15/exercicios-prontos/02-velha.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula09/aula-pratica/04-maior.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/Conversor.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/creuza_ConvertendoMoedaas.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Exercícios de terceiros/medirDimensaoParede10.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula15/exercicios-prontos/01-dissecandoMatriz.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula15/aula-pratica/04-valoresMatriz.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula15/aula-pratica/03-matrizIdentidade.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula15/aula-pratica/02-paresMatriz.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula15/aula-pratica/01-preencheMatriz.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula14/exercicios-prontos/e03-LugaresCinema.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula14/exercicios-prontos/e02-CorrigeProvas.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula14/exercicios-prontos/e01-TorneioFutebol.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula14/aula-pratica/p04-OrdenaVetor.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula14/aula-pratica/p03-SoComC.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula14/aula-pratica/p02-ListagemAlunos.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula14/aula-pratica/p01-TotalPares.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula13/aula-pratica/05-AnalisadorStrings.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula13/aula-pratica/04-FibonacciFuncao.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula13/aula-pratica/03-FatorialFuncao.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula13/aula-pratica/02-ParImparFuncao.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula13/aula-pratica/01-SomaFuncao.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula12/aula-pratica/05 - FibonacciProcedimento.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/fibonacciProcedimento.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula12/aula-pratica/04 - SomaReferencia.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula12/aula-pratica/03 - ParImparProcedimento.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/parOuImparProcedimento.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula12/aula-pratica/02 - SomaProcedimento.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula12/aula-pratica/01 - DetectorPesado.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula11/aula-pratica/03 - entre0e10.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula11/aula-pratica/02 - valorespares.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula11/aula-pratica/01 - contador.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula11/exercicios-prontos/02 - analisador.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula11/aula-pratica/04 - combinacoes.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula11/exercicios-prontos/01 - fibonacci.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula10/exercicios-prontos/02-seletor-pessoas.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula10/exercicios-prontos/01-contador-menu.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula10/aula-pratica/05-primo.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula10/aula-pratica/04-fatorial.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula10/aula-pratica/03-somador.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/somador.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula10/aula-pratica/02-conta-negativos.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula10/aula-pratica/01-tabuada.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula09/exercicios-propostos/02 - melhoraluno.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula09/exercicios-propostos/01 - contador.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/deONumeroEOSaltoParaContar.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula09/aula-pratica/05-moedas.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/deOsNumerosParaSomar.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula09/aula-pratica/03-contador.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula09/aula-pratica/02-10a0.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula09/aula-pratica/01-0a10.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula08/exercicios-propostos/02-TimesFutebol.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula08/exercicios-propostos/01-AproveitamentoAluno.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula08/aula-pratica/03 - CriancaEsperanca.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula08/aula-pratica/04 - Dependentes Funcionario.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula08/aula-pratica/02 - ImcCompleto.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula08/aula-pratica/01 - NotasAluno.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula07/exercicios-propostos/02-aluno.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula07/exercicios-propostos/01-detran.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/Creuza_Idade.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/Média aritimética.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula07/aula-pratica/01-idade.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula07/aula-pratica/02-parimpar.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula07/aula-pratica/03-imc.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/calculando_IMC.alg",
+		"/C/Users/valmi/Downloads/quantosEntre0e10ESomandoImpares.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/Aluno_Nota_Aproveitamento.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/superContador.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/escola_JavaliCansadoMediaAritimetica.alg",
+		"/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/guanabara exercícios de terceiro/mediaDisciplina.alg",
+		"/C/Users/valmi/Desktop/index.html",
+		"/C/Users/valmi/Desktop/desenvolver programação/index.html",
+		"/C/Users/valmi/Desktop/break e continue",
+		"/C/Users/valmi/OneDrive/Documentos/material introdutório à programação/index.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/quantosEntre0e10ESomandoImpares.alg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/Revendo os exercícios praticados em todo o curso/conversorDeMoedas.alg",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercícios praticados/contando_1Ate10.alg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/valmi/OneDrive/Documentos/Gustavo Guanabara Professor de Programação/cursoemvideo-algoritmos/algoritmos-cursoemvideo/exercicios/aula07/aula-pratica/03-imc.alg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "testejs02.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
